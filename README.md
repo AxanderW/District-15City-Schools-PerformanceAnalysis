@@ -1,7 +1,7 @@
-# District-15City-Schools-PerformanceAnalysis
-Helping the school board and mayor make strategic decisions regarding future school budgets and priorities.  
+# District 15 City Schools Performance Analysis
+Helping the school board and mayor make strategic decisions regarding future school budgets and priorities.
 
-Script will analyze the district-wide standardized test results and aggregate the data to showcase obvious trends in school performance
+Script will analyze the district-wide standardized test results and aggregate the data to showcase obvious trends in school performance.
 
 Final report will include each of the following:
 
@@ -61,4 +61,3 @@ Repeat of above breakdown, but this time group schools based on a reasonable app
 Repeat of above breakdown, but this time group schools based on school type (Charter vs. District).
 
 <b> Lastly, the code provides a conclusion on findings. </b>
-
